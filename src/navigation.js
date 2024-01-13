@@ -19,11 +19,31 @@ export const headerData = {
           text: 'Blog',
           href: getBlogPermalink(),
         },
+        {
+          text: 'Gaming Chairs',
+          href: '/category/gaming-chairs/',
+        },
+        {
+          text: 'Gaming Mice',
+          href: '/category/gaming-mouse/',
+        },
+        {
+          text: 'Gaming Mouse Pads',
+          href: '/category/mouse-pads/',
+        },
+        {
+          text: 'Gaming Glasses',
+          href: '/category/gaming-glasses/',
+        },
+        {
+          text: 'Gaming Desks',
+          href: '/category/gaming-desks/',
+        },
       ],
     },
    
   ],
-  actions: [{ text: 'Subscribe', href: '/subscribe', target: '_blank' }],
+  actions: [{ text: 'Subscribe', href: '/subscribe/', target: '_blank' }],
 };
 
 export const footerData = {
@@ -32,13 +52,13 @@ export const footerData = {
       title: 'Company',
       links: [
         { text: 'Website', href: 'https://serp.games' },
-        { text: 'About', href: '/about' },
+        { text: 'About', href: '/about/' },
       ],
     },
     {
       title: 'Community',
       links: [
-        { text: 'Newsletter', href: '/subscribe' },
+        { text: 'Newsletter', href: '/subscribe/.' },
         { text: 'Forum', href: '/#' },
         { text: 'Community', href: '/#' },
       ],
@@ -46,7 +66,7 @@ export const footerData = {
     {
       title: 'Links',
       links: [
-        { text: 'Medium', href: 'https://medium.com/serpgames', target: '_blank' },
+        { text: 'Medium', href: 'https://medium.com/serpdotgames', target: '_blank' },
         { text: 'Pages', href: 'https://serpgames.pages.dev', target: '_blank' },
         { text: 'Substack', href: 'https://serpgames.substack.com/', target: '_blank' },
         { text: 'Hashnode', href: 'https://serpgames.hashnode.dev/', target: '_blank' },
@@ -56,12 +76,12 @@ export const footerData = {
     {
       title: 'Boring Stuff',
       links: [
-        { text: 'Privacy Policy', href: '/privacy' },
-        { text: 'Terms & Conditions', href: '/terms' },
-        { text: 'Affiliate Disclosure', href: '/affiliate-disclosure' },
-        { text: 'DMCA', href: '/dmca' },
-        { text: 'Archive', href: '/archive' },
-        { text: 'Tags', href: '/tags' },
+        { text: 'Privacy Policy', href: '/privacy/' },
+        { text: 'Terms & Conditions', href: '/terms/' },
+        { text: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
+        { text: 'DMCA', href: '/dmca/' },
+        { text: 'Archive', href: '/archive/' },
+        { text: 'Tags', href: '/tags/' },
       ],
     },
   ],
