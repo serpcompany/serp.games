@@ -1,0 +1,66 @@
+---
+import Features2 from '~/components/widgets/Features2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'About us',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    image={{
+      src: 'src/assets/images/logo.png',
+      alt: 'SERP Games',
+    }}
+  >
+    <Fragment slot="title">
+      About
+    </Fragment>
+
+    <Fragment slot="subtitle">
+
+      <p>Welcome, gaming enthusiasts, to the ultimate hub of fun and entertainment - SERP Games!</p>
+      <br>
+      <p>We embrace all games, from pixels to pawns, joysticks to dice. All aboard the Game Train! 🚂</p>
+<br>
+      <p>Explore everything from video games and board games to online gaming adventures.</p>
+<br>
+      <h2>🎮 Video Games</h2>
+      <p>Consoles, PCs, mobiles Stay updated on the latest releases, hidden gems, and classics.</p>
+      <h2>🌐 Online Games</h2>
+      <p>Explore the Find friends and foes alike in the digital realm.</p>
+<br>
+      <h2>🕹️ Offline Games</h2>
+      <p>Discover games perfect for those times when the router is off.</p>
+<br>
+      <h2>🎲 Board Games</h2>
+      <p>Enjoy a diverse range of board games for everyone.</p>
+      <br>
+      <h2>🃏 Card Games</h2>
+      <p>Eur collection has something for every card game enthusiast.</p>
+      <br>
+      <h2>🤹 Traditional & Party Games</h2>
+      <p>Enjoy the We're keeping traditional fun alive and well.</p>
+      <br>
+      <h2>💡 Game Guides and Tips</h2>
+      <p>Our guides are your personal gaming genie, ready to assist.</p>
+      <br>
+      <h2>👯 Community and Events</h2>
+      <p>Join Share, collaborate, and connect with like-minded individuals.</p>
+<br><br>
+      <p>Whether you're a digital gamer, a board game enthusiast, a card game expert, or just a fan of simple fun, SERP Games welcomes you.</p>
+      <br><br>
+      <p>We're a gaming community where everyone brings their best. And you're invited to join the fun.</p>
+      <br><br>
+      <p>Pick your favorite game, and let's start the gaming party! 🎉</p>
+    </Fragment>
+  </Hero>
+
+</Layout>
