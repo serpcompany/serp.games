@@ -83,9 +83,9 @@ const DEFAULT_SITE_NAME = 'SERP Games';
 const getSite = () => {
   const _default = {
     name: DEFAULT_SITE_NAME,
-    site: 'serpgames.github.io',
-    base: 'serpgames.github.io',
-    trailingSlash: false,
+    site: 'serp.games',
+    base: 'serp.games',
+    trailingSlash: true,
 
     googleSiteVerificationId: '',
   };

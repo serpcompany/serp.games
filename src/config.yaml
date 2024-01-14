@@ -1,8 +1,8 @@
 site:
   name: SERP Games
-  site: 'https://serpgames.github.io'
+  site: 'https://serp.games'
   base: '/'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId:
 
