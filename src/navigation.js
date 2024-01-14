@@ -68,8 +68,9 @@ export const footerData = {
       links: [
         { text: 'Medium', href: 'https://medium.com/serpdotgames', target: '_blank' },
         { text: 'Pages', href: 'https://serpgames.pages.dev', target: '_blank' },
-        { text: 'Substack', href: 'https://serpgames.substack.com/', target: '_blank' },
-        { text: 'Hashnode', href: 'https://serpgames.hashnode.dev/', target: '_blank' },
+        { text: 'Github', href: 'https://serpgames.github.io', target: '_blank' },
+        // { text: 'Substack', href: 'https://serpgames.substack.com/', target: '_blank' },
+        // { text: 'Hashnode', href: 'https://serpgames.hashnode.dev/', target: '_blank' },
         { text: 'Website', href: 'https://serp.games', target: '_blank' },
       ],
     },
