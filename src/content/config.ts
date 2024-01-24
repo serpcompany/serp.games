@@ -19,7 +19,7 @@ export async function GET(context) {
             description: post.data.description,
             customData: post.data.customData,
             content: post.body, // Assuming you have the content of each post in post.body
-            link: `/posts/${post.slug}/` // Make sure the link structure matches your routing
+            link: `/${post.slug}/` // Make sure the link structure matches your routing
         })),
     });
 }
