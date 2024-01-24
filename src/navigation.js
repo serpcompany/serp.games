@@ -49,22 +49,23 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Company',
+      title: 'COMPANY',
       links: [
         { text: 'Website', href: 'https://serp.games' },
         { text: 'About', href: '/about/' },
-      ],
-    },
-    {
-      title: 'Community',
-      links: [
         { text: 'Newsletter', href: '/subscribe/.' },
-        { text: 'Forum', href: '/#' },
-        { text: 'Community', href: '/#' },
       ],
     },
+    // {
+    //   title: 'Community',
+    //   links: [
+    //     { text: 'Newsletter', href: '/subscribe/.' },
+    //     // { text: 'Forum', href: '#' },
+    //     // { text: 'Community', href: '#' },
+    //   ],
+    // },
     {
-      title: 'Links',
+      title: 'LINKS',
       links: [
         { text: 'Medium', href: 'https://medium.com/serpdotgames', target: '_blank' },
         { text: 'Pages', href: 'https://serpgames.pages.dev', target: '_blank' },
@@ -75,14 +76,14 @@ export const footerData = {
       ],
     },
     {
-      title: 'Boring Stuff',
+      title: 'BORING STUFF',
       links: [
         { text: 'Privacy Policy', href: '/privacy/' },
         { text: 'Terms & Conditions', href: '/terms/' },
         { text: 'Affiliate Disclosure', href: '/affiliate-disclosure/' },
         { text: 'DMCA', href: '/dmca/' },
-        { text: 'Archive', href: '/archive/' },
-        { text: 'Tags', href: '/tags/' },
+        // { text: 'Archive', href: '/archive/' },
+        // { text: 'Tags', href: '/tags/' },
       ],
     },
   ],
@@ -98,4 +99,5 @@ export const footerData = {
     { ariaLabel: 'TikTok', icon: 'tabler:brand-tiktok', href: 'https://serp.ly/@serpgames/tiktok', target: '_blank' },
     { ariaLabel: 'Medium', icon: 'tabler:brand-medium', href: 'https://serp.ly/@serpgames/medium', target: '_blank' },
   ],
+
 };
