@@ -21,17 +21,17 @@ We've rounded up some of the most top-rated options, bringing you an in-depth an
 
 ## The Top 6 Best Small Gaming Mouse
 
-1. [Logitech G203 Lightsync Ambidextrous Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - The Logitech G203 Lightsync Gaming Mouse delivers high precision and customizable RGB colors in a comfortable and easy-to-use ambidextrous design, perfect for gamers seeking maximum performance and personalization.
+1. [Logitech G203 Lightsync Ambidextrous Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g203-lightsync-ambidextrous-gaming-mouse) - The Logitech G203 Lightsync Gaming Mouse delivers high precision and customizable RGB colors in a comfortable and easy-to-use ambidextrous design, perfect for gamers seeking maximum performance and personalization.
 
-2. [Wireless Gaming Mouse MM712](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - The Cooler Master MM712 is a highly-rated lightweight gaming mouse with a seamless, hole-less profile, 2.4 GHz Dongle, Bluetooth 5.0 capability, and ultra-responsive performance, perfect for gamers seeking agility and precision.
+2. [Wireless Gaming Mouse MM712](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=wireless-gaming-mouse-mm712) - The Cooler Master MM712 is a highly-rated lightweight gaming mouse with a seamless, hole-less profile, 2.4 GHz Dongle, Bluetooth 5.0 capability, and ultra-responsive performance, perfect for gamers seeking agility and precision.
 
-3. [Logitech G300s - Compact, Customizable Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - Experience seamless performance and unmatched comfort with the versatile Logitech G300s Gaming Mouse, featuring customizable buttons, adjustable DPI settings, and color-coded profiles for an unparalleled gaming advantage.
+3. [Logitech G300s - Compact, Customizable Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g300s-compact-customizable-gaming-mouse) - Experience seamless performance and unmatched comfort with the versatile Logitech G300s Gaming Mouse, featuring customizable buttons, adjustable DPI settings, and color-coded profiles for an unparalleled gaming advantage.
 
-4. [Cooler Master Ultra-Lightweight Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - The Cooler Master MM730 Gaming Mouse offers an ergonomic design for right-handers and combines a lightweight build with a tangle-free Ultraweave cable for seamless gameplay.
+4. [Cooler Master Ultra-Lightweight Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=cooler-master-ultra-lightweight-ergonomic-gaming-mouse) - The Cooler Master MM730 Gaming Mouse offers an ergonomic design for right-handers and combines a lightweight build with a tangle-free Ultraweave cable for seamless gameplay.
 
-5. [Razer DeathAdder V2 Mini Ultra-Lightweight Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - The Razer DeathAdder V2 Mini is a highly efficient and customizable optical gaming mouse, offering smooth control, fast sensor, and visually stunning RGB lighting for a superior gaming experience.
+5. [Razer DeathAdder V2 Mini Ultra-Lightweight Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=razer-deathadder-v2-mini-ultra-lightweight-gaming-mouse) - The Razer DeathAdder V2 Mini is a highly efficient and customizable optical gaming mouse, offering smooth control, fast sensor, and visually stunning RGB lighting for a superior gaming experience.
 
-6. [EVGA X20 Triple-Sensor Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website) - Revolutionize your gaming experience with EVGA's X20, the world's first triple sensor mouse, offering unparalleled precision, customization, and connectivity options!
+6. [EVGA X20 Triple-Sensor Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=evga-x20-triple-sensor-ergonomic-gaming-mouse) - Revolutionize your gaming experience with EVGA's X20, the world's first triple sensor mouse, offering unparalleled precision, customization, and connectivity options!
 
 *As an Amazon™ Associate, we earn from qualifying purchases.*
 
@@ -39,9 +39,9 @@ We've rounded up some of the most top-rated options, bringing you an in-depth an
 ## Reviews
 
 
-### [Logitech G203 Lightsync Ambidextrous Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [Logitech G203 Lightsync Ambidextrous Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g203-lightsync-ambidextrous-gaming-mouse)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="logitech-g203-lightsync-gaming-mouse-black-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/logitech-g203-lightsync-gaming-mouse-black-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g203-lightsync-gaming-mouse-black-1"><img alt="logitech-g203-lightsync-gaming-mouse-black-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/logitech-g203-lightsync-gaming-mouse-black-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 I recently started using the Logitech G203 Lightsync Gaming Mouse, and I've been really impressed with its performance. This little mouse packs a powerful punch with its 8,000 DPI gaming-grade sensor, making it super responsive and accurate for all my gaming needs. 
 
@@ -54,9 +54,9 @@ As for the mouse itself, I found it incredibly comfortable to use, even during m
 Overall, I'm really happy with my purchase of the Logitech G203 Lightsync Gaming Mouse. It's perfect for anyone looking for an affordable, yet high-quality gaming mouse that's packed with customization options and outstanding performance. 
 
 
-### [Wireless Gaming Mouse MM712](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [Wireless Gaming Mouse MM712](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=wireless-gaming-mouse-mm712)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="cooler-master-mm712-white-2-4ghz-wireless-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/cooler-master-mm712-white-2-4ghz-wireless-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=cooler-master-mm712-white-2-4ghz-wireless-gaming-mouse-1"><img alt="cooler-master-mm712-white-2-4ghz-wireless-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/cooler-master-mm712-white-2-4ghz-wireless-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 The Cooler Master MM712 Wireless Gaming Mouse is an ultra-lightweight companion for gamers on-the-go. Its hole-less profile and 59g weight make it incredibly comfortable to use, while the 2.4GHz dongle ensures swift connectivity without any hindrance. I particularly appreciated the hybrid 2.4 GHz/Bluetooth 5.0 capability that ensured smooth performance even in busy environments. 
 
@@ -67,9 +67,9 @@ However, there were some drawbacks as well. The optical micro switches, while ef
 In conclusion, the Cooler Master MM712 Wireless Gaming Mouse offers a comfortable, lightweight design and superior performance that appeals to gamers who value mobility. It would be great to see additional customization options and more tactile clicks in future models to fully convince me! 
 
 
-### [Logitech G300s - Compact, Customizable Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [Logitech G300s - Compact, Customizable Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g300s-compact-customizable-gaming-mouse)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="logitech-g300s-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/logitech-g300s-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=logitech-g300s-gaming-mouse-1"><img alt="logitech-g300s-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/logitech-g300s-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 As a first-time user of the Logitech G300s Gaming Mouse, I must say it has been quite an enjoyable experience. The compact design makes it comfortable to use, even after hours of gameplay. The seamless performance is a testament to its excellent engineering and craftsmanship. 
 
@@ -80,9 +80,9 @@ However, there are some downsides worth mentioning. The software for setting up 
 In conclusion, the Logitech G300s Gaming Mouse offers great value for its price. Its comfortable design and customization options make it a reliable choice for both casual and hardcore gamers alike. While there are few drawbacks, these do not significantly detract from its overall performance and functionality. 
 
 
-### [Cooler Master Ultra-Lightweight Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [Cooler Master Ultra-Lightweight Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=cooler-master-ultra-lightweight-ergonomic-gaming-mouse)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="cooler-master-mm730-gaming-mouse-black-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/cooler-master-mm730-gaming-mouse-black-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=cooler-master-mm730-gaming-mouse-black-1"><img alt="cooler-master-mm730-gaming-mouse-black-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/cooler-master-mm730-gaming-mouse-black-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 I've been using the Cooler Master MM730 Gaming Mouse for quite some time now, and I must say, it's been a game-changer for me. The first thing that really caught my eye was its strikingly new lightweight design. It weighs only 48g without compromising on aesthetics, unlike some other lightweight mice that have exterior holes. The classic ergonomic shape is comfortable for my right hand, making it perfect for those long gaming sessions. 
 
@@ -95,9 +95,9 @@ The build quality of this mouse is quite impressive. It's made primarily of plas
 In conclusion, the Cooler Master MM730 Gaming Mouse has been a real pleasure to use. Its lightweight design, comfortable ergonomics, and excellent performance make it a top choice for gamers who are looking for a reliable and high-performing mouse. Despite the minor issues with the firmware and the somewhat plasticky feel, I highly recommend this mouse to anyone in the market for a new gaming peripheral. 
 
 
-### [Razer DeathAdder V2 Mini Ultra-Lightweight Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [Razer DeathAdder V2 Mini Ultra-Lightweight Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=razer-deathadder-v2-mini-ultra-lightweight-gaming-mouse)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="razer-deathadder-v2-mini-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/razer-deathadder-v2-mini-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=razer-deathadder-v2-mini-gaming-mouse-1"><img alt="razer-deathadder-v2-mini-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/razer-deathadder-v2-mini-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 I've been using the Razer DeathAdder V2 Mini for a while now, and I must say, it has revolutionized my gaming experience. This compact version of the iconic DeathAdder is incredibly lightweight and fits perfectly in the palm of my hand, making it incredibly comfortable and easy to use. 
 
@@ -108,9 +108,9 @@ One of my favorite features is the 8500 DPI Optical Sensor, which provides pinpo
 The on-board memory profile allows me to access my custom DPI settings and button configurations without the need for additional software, ensuring a seamless gaming experience. Overall, the DeathAdder V2 Mini is a top-notch gaming mouse that strikes the perfect balance between size, performance, and comfort. 
 
 
-### [EVGA X20 Triple-Sensor Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm\_source=serpgames&utm\_medium=organic&utm\_campaign=website)
+### [EVGA X20 Triple-Sensor Ergonomic Gaming Mouse](https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=evga-x20-triple-sensor-ergonomic-gaming-mouse)
 
-<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img alt="evga-903-t1-20bk-kr-x20-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/evga-903-t1-20bk-kr-x20-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
+<div class="image"><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=evga-903-t1-20bk-kr-x20-gaming-mouse-1"><img alt="evga-903-t1-20bk-kr-x20-gaming-mouse-1" src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/evga-903-t1-20bk-kr-x20-gaming-mouse-1/w=720,h=540,fit=pad,background=black"/></a></div>
 
 I recently got my hands on the EVGA X20 Wireless Gaming Mouse, and since then, it's become an integral part of my gaming set-up. The world's first triple sensor mouse offers a level of customization and precision that's hard to find elsewhere. I especially appreciate the UNLEASH RGB software, which allows me to tweak the settings to my liking and create up to five customizable profiles. 
 
@@ -126,7 +126,7 @@ Overall, I've been extremely happy with the EVGA X20 Wireless Gaming Mouse. It's
 
 ### Important Features to Consider
 
-<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-2/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-2"></a></div>
+<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=small-gaming-mouse-2"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-2/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-2"></a></div>
 
 When shopping for a small gaming mouse, there are several features to keep in mind: 
 
@@ -164,7 +164,7 @@ To make the most informed decision when selecting a small gaming mouse, consider
 
 * Brand Loyalty: Some gamers prefer a specific brand due to its reputation, design aesthetics, or customization options. However, there are many excellent mice from various manufacturers, so don't limit yourself solely based on brand.
 
-<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-3/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-3"></a></div>
+<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=small-gaming-mouse-3"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-3/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-3"></a></div>
 
 
 ## FAQ
@@ -177,7 +177,7 @@ A small gaming mouse is essential for gamers with limited hand space or those wh
 
 ### What is the ideal weight for a small gaming mouse?
 
-<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-4/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-4"></a></div>
+<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=small-gaming-mouse-4"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-4/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-4"></a></div>
 
 The ideal weight for a small gaming mouse depends on personal preference. Some gamers prefer a lighter mouse for faster movements, while others find a heavier one more comfortable and controllable. Generally, small gaming mice weigh between 50 to 150 grams. 
 
@@ -191,7 +191,7 @@ Optical sensors are considered the best option for a small gaming mouse. They pr
 
 A small gaming mouse should have a minimum of 5 buttons: left-click, right-click, scroll wheel, and 2 side buttons. Additional buttons may be available depending on the model, but having more than 7 buttons might make the mouse too cluttered and uncomfortable to use, especially for small hands. 
 
-<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-5/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-5"></a></div>
+<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=small-gaming-mouse-5"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-5/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-5"></a></div>
 
 
 ### What is the difference between wired and wireless small gaming mice?
@@ -216,7 +216,7 @@ To clean your small gaming mouse, follow these steps:
 
 ### Do small gaming mice come with customizable software?
 
-<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=organic&utm_campaign=website"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-6/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-6"></a></div>
+<div><a href="https://serp.ly/@serpgames/amazon/small-gaming-mouse?utm_source=serpgames&utm_medium=website&utm_campaign=serp.games&utm_content=small-gaming-mouse&utm_term=small-gaming-mouse-6"><img src="https://imagedelivery.net/vy2bglCGN6hEeWOnSe2c7A/Small+Gaming+Mouse-6/w=720,h=540,fit=pad,background=black" alt="Small Gaming Mouse-6"></a></div>
 
 Many small gaming mice come with customizable software that allows you to adjust settings such as DPI, polling rate, button assignments, and lighting effects. Check the product specifications or user manual for more information on specific models. 
 
