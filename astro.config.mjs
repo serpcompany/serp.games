@@ -1,7 +1,8 @@
+// astro.config.mjs
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-import { defineConfig, squooshImageService } from 'astro/config';
+import { defineConfig } from 'astro/config';
 
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
@@ -10,7 +11,10 @@ import partytown from '@astrojs/partytown';
 import icon from 'astro-icon';
 import tasks from './src/utils/tasks';
 
-import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin } from './src/utils/frontmatter.mjs';
+import {
+  responsiveTablesRehypePlugin,
+  externalAnchorPlugin,
+} from './src/utils/frontmatter.mjs';
 
 import { ANALYTICS, SITE } from './src/utils/config.ts';
 
@@ -26,9 +30,22 @@ const whenExternalScripts = (items = []) =>
 export default defineConfig({
   site: SITE.site,
   base: SITE.base,
-  trailingSlash: SITE.trailingSlash ? 'always' : 'never',
+  trailingSlash: 'always',
 
   output: 'static',
+  cacheDir: './cache/.astro',
+  experimental: {
+    contentCollectionCache: true,
+  },
+
+  vite: {
+    resolve: {
+      alias: {
+        '~': path.resolve(__dirname, './src'),
+      },
+    },
+    logLevel: 'info',
+  },
 
   integrations: [
     tailwind({
@@ -62,20 +79,7 @@ export default defineConfig({
     tasks(),
   ],
 
-  image: {
-    service: squooshImageService(),
-  },
-
   markdown: {
-    remarkPlugins: [readingTimeRemarkPlugin],
     rehypePlugins: [responsiveTablesRehypePlugin],
-  },
-
-  vite: {
-    resolve: {
-      alias: {
-        '~': path.resolve(__dirname, './src'),
-      },
-    },
   },
 });

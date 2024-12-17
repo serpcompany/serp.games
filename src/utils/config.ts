@@ -1,3 +1,5 @@
+// src/utils/config.ts
+
 import fs from 'fs';
 import yaml from 'js-yaml';
 import merge from 'lodash.merge';
@@ -83,8 +85,8 @@ const DEFAULT_SITE_NAME = 'SERP Games';
 const getSite = () => {
   const _default = {
     name: DEFAULT_SITE_NAME,
-    site: 'serp.games',
-    base: 'serp.games',
+    site: 'https://serp.games',
+    base: '/',
     trailingSlash: true,
 
     googleSiteVerificationId: '',
@@ -103,8 +105,8 @@ const getMetadata = () => {
     },
     description: '',
     robots: {
-      index: false,
-      follow: false,
+      index: true,
+      follow: true,
     },
     openGraph: {
       type: 'website',
@@ -127,7 +129,7 @@ const getI18N = () => {
       year: 'numeric',
       month: 'short',
       day: 'numeric',
-      timeZone: 'UTC',
+      timeZone: 'PST',
     }),
   }) as I18NConfig;
 };
@@ -138,7 +140,7 @@ const getAppBlog = () => {
     postsPerPage: 100,
     post: {
       isEnabled: true,
-      permalink: '/blog/%slug%',
+      permalink: '/%slug%',
       robots: {
         index: true,
         follow: true,

@@ -1,5 +1,7 @@
+# src/config.yaml
+
 site:
-  name: SERP Games
+  name: SERP Games  # *** update this ***
   site: 'https://serp.games'
   base: '/'
   trailingSlash: true
@@ -9,22 +11,22 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: SERP Games
-    template: '%s — SERP Games'
-  description: "\U0001F680 from \"Game ON\" to \"Game OVER\"."
+    default: SERP Games  # *** update this ***
+    template: '%s — SERP Games'  # *** update this ***
+  description: ""
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: SERP Games
+    site_name: SERP Games  # *** update this ***
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@serpdotgames'
-    site: '@serpdotgames'
+    handle: '@serpgames'  # *** update this ***
+    site: '@serpgames'  # *** update this ***
     cardType: summary_large_image
 
 i18n:
@@ -34,7 +36,7 @@ i18n:
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 100
+    postsPerPage: 500
 
     post:
       isEnabled: true

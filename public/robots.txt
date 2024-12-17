@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://serp.games/sitemap-index.xml
+Sitemap: https://serp.games/sitemap-0.xml
