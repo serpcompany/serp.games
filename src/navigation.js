@@ -22,6 +22,10 @@ export const headerData = {
           text: 'Gaming Glasses',
           href: getPermalink('/category/gaming-glasses/'),
         },
+        {
+          text: 'Gaming Desks',
+          href: getPermalink('/category/gaming-desks/'),
+        },
       ],
     },
   ],
