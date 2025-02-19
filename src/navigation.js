@@ -14,7 +14,7 @@ export const headerData = {
           text: 'Gaming Chairs',
           href: getPermalink('/category/gaming-chairs/'),
         },
-        {
+        { 
           text: 'Mouse Pads',
           href: getPermalink('/category/mouse-pads/'),
         },
